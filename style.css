@@ -1,0 +1,15 @@
+img{
+    border: 10px white solid;max-width: 1200px;
+}
+html{
+    background-color: black;
+}
+h1{
+    color: white;text-align: center;font-size:28px ;
+}
+div{
+    margin:35px 35px 1px  35px;text-align: center;
+}p{
+    color: white;
+    text-align: center;
+}
